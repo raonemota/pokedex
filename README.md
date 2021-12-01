@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.picasion.com/pic91/6d63c2360c6e1a737e5425543a60e248.gif"/>
+  <img src="https://ibb.co/V2pFpGk"/>
 </div>
 
 # Goal
